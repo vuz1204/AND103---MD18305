@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\dialog_add.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\dialog_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_update_fruit.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_update_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-33:/layout/item_image.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-36:/layout/item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\item_fruit.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\item_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\item_distributor.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\item_distributor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_add_fruit.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_add_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-33:/layout/activity_fruit_detail.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-36:/layout/activity_fruit_detail.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-33:/layout/activity_home.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-mergeDebugResources-33:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.2\\fpoly.vunvph33438.lab5.app-main-36:\\layout\\activity_register.xml"
+    }
+]
