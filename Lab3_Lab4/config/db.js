@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 mongoose.set("strictQuery", true);
 
-const local = "mongodb://127.0.0.1:27017/MyDatabase";
+const local = "mongodb://localhost:27017/MyDatabase";
 
 const connect = async () => {
   try {
