@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string-array name="spinner_price">
+        <item>Ascending</item>
+        <item>Decrease</item>
+    </string-array>
+</resources>

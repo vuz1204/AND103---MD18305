@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_ic_search.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_update_fruit.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_update_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_item_image.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_image.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_edit_icon.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/edit_icon.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_custom_edtext.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/custom_edtext.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_delete_icon.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_item_distributor.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_distributor.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_item_fruit.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_login.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_sign_up.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_register.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_register.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_home.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_home.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_fruit_detail.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_fruit_detail.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_add_fruit.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_add_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_dialog_add.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/dialog_add.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_ic_money.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/ic_money.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_forgot_password.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_custtomedit.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/custtomedit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_search_icon.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_ic_add.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_logofpt.png.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/logofpt.png"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/drawable_baseline_broken_image_24.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/drawable/baseline_broken_image_24.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/xml/backup_rules.xml"
+    }
+]

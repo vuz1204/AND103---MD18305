@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/item_distributor.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_distributor.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/item_fruit.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_sign_up.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_add_fruit.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_add_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_register.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_register.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_home.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_home.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_forgot_password.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/dialog_add.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/dialog_add.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_fruit_detail.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_fruit_detail.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_update_fruit.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_update_fruit.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/item_image.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/item_image.xml"
+    },
+    {
+        "merged": "fpoly.vunvph33438.lab5.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "fpoly.vunvph33438.lab5.app-main-44:/layout/activity_login.xml"
+    }
+]
